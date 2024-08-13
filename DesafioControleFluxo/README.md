@@ -9,11 +9,11 @@ Pequeno sistema, via terminal, que conta a quantidade de interações com base n
 
 - Sem erro:
 
-![fluxoSemErro](https://github.com/Jeff-bt/dio-claro-challenges-basic/blob/main/ContaBanco/img/fluxoCorreto.png)
+  ![fluxoSemErro](https://github.com/Jeff-bt/dio-claro-challenges-basic/blob/main/DesafioControleFluxo/img/fluxoCorreto.png)
 
 - Com erro
 
-![fluxoSemErro](https://github.com/Jeff-bt/dio-claro-challenges-basic/blob/main/ContaBanco/img/fluxoComError.png)
+  ![fluxoSemErro](https://github.com/Jeff-bt/dio-claro-challenges-basic/blob/main/DesafioControleFluxo/img/fluxoComError.png)
 
 ## Desafio
  [Link do Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
