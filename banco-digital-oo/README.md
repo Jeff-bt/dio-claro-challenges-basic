@@ -7,8 +7,6 @@ Simulação de criação de uma conta bancária com paradigma orientação a obj
 - `POO`
 - `Lógica de programção`
 
-    ![`String multilinha`](https://github.com/Jeff-bt/dio-claro-challenges-basic/blob/main/ContaBanco/img/StringMultilinha.png)
-
 ### Resultado do Desafio 
 - A classe main cria os clientes e os bancos.
 - Manipula os saldos das contas com as suas funções:
